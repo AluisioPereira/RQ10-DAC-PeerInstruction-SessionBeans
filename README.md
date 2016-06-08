@@ -1,9 +1,7 @@
 
 ___________________________________________________________________________
 
-RESPOSTAS A ATIVIDADE
-TESTE DE OBJETIVOS DE APRENDIZAGEM
-
+RESPOSTAS A ATIVIDADE - PEER INSTRUCTION - SESSION BEANS
 ___________________________________________________________________________
 
 10. Implemente uma aplicação corporativa com dois clientes: web e desktop.
