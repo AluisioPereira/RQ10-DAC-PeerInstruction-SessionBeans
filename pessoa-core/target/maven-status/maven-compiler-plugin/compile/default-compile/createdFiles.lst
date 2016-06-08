@@ -1,0 +1,5 @@
+br\edu\ifpb\pessoa\core\fachada\PessoaFachada.class
+br\edu\ifpb\pessoa\core\persistencia\IFPessoa.class
+br\edu\ifpb\pessoa\core\entidades\Pessoa.class
+br\edu\ifpb\pessoa\core\persistencia\Pessoas.class
+NewClass.class
